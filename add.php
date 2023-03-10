@@ -17,7 +17,7 @@
   <link rel="stylesheet" href="font\css\all.css"/>
 </head>
 <body>
-<div class="card text-center" style="padding:15px;">
+<div class="card text-center" style="padding:15px;"> 
   <h4>PHP: CRUD </h4>
 </div><br> 
 <div class="container">
@@ -37,7 +37,7 @@
      <input type="submit" name="submit" class="btn btn-primary" style="float:right;" value="Submit">
   </form>
 </div>
-<script src="bootstrap-5.1.3\dist\js\jquery-1.11.3.min.js"></script>
+<script src="bootstrap-5.1.3\dist\js\jquery-1.11.3.min.js"></script> sflsjflsjfslfjlsjlfjlsfj
 <script src="bootstrap-5.1.3\dist\js\bootstrap.min.js"></script>
 </body>
 </html>
